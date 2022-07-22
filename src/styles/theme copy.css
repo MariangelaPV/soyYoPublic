@@ -1,0 +1,37 @@
+.first{
+    background: rgba(125,164,120,0.8);
+    background: rgba(125,164,120,0.8);
+    background: rgba(125,164,120,0.8);
+    background: #A39171;
+    /* background: #D499B9; */
+    /* background: #6CAE75; */
+    /* background:#24272B; */
+    /* background: #6E7E85; */
+    /* background: #BBBAC6; */
+    /* background:#785589; */
+    /* background: #DB5A42; */
+    /* background: rgba(125,164,120,0.8); */
+    /* background: #4BA3C3; */
+}
+.firstHover:hover{
+    background:#273C2C;
+    background:#273C2C;
+    background:#273C2C;
+    background:#6D4C3D;
+    /* background:#E8C1C5; */
+    /* background:#8BBD8B; */
+    /* background:#4A525A; */
+    /* background:#B7CECE; */
+    /* background:#E2E2E2; */
+    /* background:#977390; */
+    /* background:rgba(219,90,66,0.7);  */
+    /* background:#273C2C; */
+    /* background:#175676; */
+
+}
+.second{
+    background: #3e0752;
+}
+.third{
+    background: #3e0752;
+}

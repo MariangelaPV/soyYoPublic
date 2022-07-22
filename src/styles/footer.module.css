@@ -1,0 +1,30 @@
+.footerContainer {
+  /* background: #eee; */
+  background-color: rgba(84, 84, 84, 0.2);
+  padding: 40px 20px;
+
+  padding-bottom: 70px;
+  text-align: center;
+  margin-top: 50px;
+
+  position: absolute; /* position absolute instead of fixed */
+  bottom: -140px; /* move inside the body margin */
+  left: 0;
+  right: 0;
+  margin-bottom: 0px;
+  height: 50px;
+  width: 100%;
+}
+
+.footerLinkContainer:hover {
+  box-sizing: border-box;
+  padding: 15px 180px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  width: fit-content;
+  background-color: #262626;
+  background-color: rgba(84, 84, 84, 0.1);
+}
+.footerLinkImg {
+  width: 90px;
+}

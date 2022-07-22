@@ -1,0 +1,15 @@
+.profileContainer {
+  width: 500px;
+  margin: 100px auto;
+  text-align: center;
+  
+}
+.profileContainer,
+.profileContainer.skin1{
+  color:#1c1c1c;
+}
+.profilePicture img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}

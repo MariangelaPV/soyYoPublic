@@ -1,0 +1,13 @@
+.mySpinner{
+    color:#f8f9fa;
+     width:130px;
+     height:130px;
+}
+.containerLoading{
+    height:100vh;
+    background-color: rgba(84, 84, 84, 0.3);
+    display: flex;
+    justify-content: center;
+    vertical-align: center;
+    align-items: center;
+}

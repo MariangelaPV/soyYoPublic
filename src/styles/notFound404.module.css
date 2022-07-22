@@ -1,0 +1,17 @@
+.notFoundBack {
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(84, 84, 84, 0.2);
+}
+.notFoundContainer {
+  min-height: 100%;
+  box-sizing: border-box;
+}
+.notFoundText {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100%;
+  font-size: 40px;
+  color: white;
+}

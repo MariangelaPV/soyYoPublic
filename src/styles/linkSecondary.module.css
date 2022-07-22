@@ -1,0 +1,31 @@
+.secondaryLink {
+  box-sizing: border-box;
+  text-decoration: none;
+  justify-content: flex-start;
+  align-items: center;
+  display: flex;
+  /* background: #191919; */
+  /* font-family: 'Avenir','Aveniro'; */
+  color: #fff;
+  border-radius: 5px;
+  padding: 18px;
+  text-align: left;
+  font-weight: 500;
+  font-size: 18px;
+  border: 0;
+  width: 100%;
+  border-bottom: 3px solid rgba(0, 0, 0, 0.2);
+  outline: none;
+  margin-bottom: 10px;
+}
+.secondaryLink:hover {
+  color: #fff;
+  /* background: rgba(62, 7, 82,0.9); */
+}
+.secondaryLinkSpan {
+  overflow: hidden;
+}
+.secondaryLinkIcon {
+  margin-right: 15px;
+  font-size: 25px;
+}
